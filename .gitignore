@@ -1,0 +1,18 @@
+# Windows thumbnails files
+Thumbs.db
+
+# OS X trash files
+.DS_Store
+._*
+
+# Intelli Idea project folders
+.idea
+
+# Grunt.js modules
+node_modules/
+
+# Build files
+_build/
+
+# SASS cache
+.sass-cache
